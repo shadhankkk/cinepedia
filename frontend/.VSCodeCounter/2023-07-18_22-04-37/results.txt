@@ -1,0 +1,52 @@
+Date : 2023-07-18 22:04:37
+Directory : c:\Users\Shash\Desktop\book-discovery
+Total : 18 files,  18393 codes, 41 comments, 192 blanks, all 18626 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     17,596 |          0 |          3 |     17,599 |
+| JavaScript |         10 |        625 |         14 |        137 |        776 |
+| CSS        |          2 |        113 |          4 |         18 |        135 |
+| Markdown   |          1 |         38 |          0 |         33 |         71 |
+| HTML       |          1 |         20 |         23 |          1 |         44 |
+| XML        |          1 |          1 |          0 |          0 |          1 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                         | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                            |         18 |     18,393 |         41 |        192 |     18,626 |
+| . (Files)                                                    |          4 |     17,617 |          1 |         37 |     17,655 |
+| public                                                       |          2 |         45 |         23 |          2 |         70 |
+| src                                                          |         12 |        731 |         17 |        153 |        901 |
+| src (Files)                                                  |          8 |        183 |         12 |         33 |        228 |
+| src\pages                                                    |          4 |        548 |          5 |        120 |        673 |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                     | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Shash\Desktop\book-discovery\README.md              | Markdown   |         38 |          0 |         33 |         71 |
+| c:\Users\Shash\Desktop\book-discovery\package-lock.json      | JSON       |     17,528 |          0 |          1 |     17,529 |
+| c:\Users\Shash\Desktop\book-discovery\package.json           | JSON       |         43 |          0 |          1 |         44 |
+| c:\Users\Shash\Desktop\book-discovery\public\index.html      | HTML       |         20 |         23 |          1 |         44 |
+| c:\Users\Shash\Desktop\book-discovery\public\manifest.json   | JSON       |         25 |          0 |          1 |         26 |
+| c:\Users\Shash\Desktop\book-discovery\src\App.css            | CSS        |         98 |          4 |         14 |        116 |
+| c:\Users\Shash\Desktop\book-discovery\src\App.js             | JavaScript |         37 |          1 |          7 |         45 |
+| c:\Users\Shash\Desktop\book-discovery\src\App.test.js        | JavaScript |          7 |          0 |          2 |          9 |
+| c:\Users\Shash\Desktop\book-discovery\src\index.css          | CSS        |         15 |          0 |          4 |         19 |
+| c:\Users\Shash\Desktop\book-discovery\src\index.js           | JavaScript |         12 |          3 |          3 |         18 |
+| c:\Users\Shash\Desktop\book-discovery\src\logo.svg           | XML        |          1 |          0 |          0 |          1 |
+| c:\Users\Shash\Desktop\book-discovery\src\pages\Film.js      | JavaScript |        190 |          4 |         38 |        232 |
+| c:\Users\Shash\Desktop\book-discovery\src\pages\Home.js      | JavaScript |        167 |          0 |         38 |        205 |
+| c:\Users\Shash\Desktop\book-discovery\src\pages\Navbar.js    | JavaScript |         57 |          0 |         16 |         73 |
+| c:\Users\Shash\Desktop\book-discovery\src\pages\Search.js    | JavaScript |        134 |          1 |         28 |        163 |
+| c:\Users\Shash\Desktop\book-discovery\src\reportWebVitals.js | JavaScript |         12 |          0 |          2 |         14 |
+| c:\Users\Shash\Desktop\book-discovery\src\setupTests.js      | JavaScript |          1 |          4 |          1 |          6 |
+| c:\Users\Shash\Desktop\book-discovery\tailwind.config.js     | JavaScript |          8 |          1 |          2 |         11 |
+| Total                                                        |            |     18,393 |         41 |        192 |     18,626 |
++--------------------------------------------------------------+------------+------------+------------+------------+------------+
